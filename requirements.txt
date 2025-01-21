@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+dotenv
+sqlalchemy
+mysqlclient
+datetime
+python-dotenv

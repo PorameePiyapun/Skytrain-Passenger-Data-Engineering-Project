@@ -1,0 +1,1001 @@
+Date,time,station,passengers_entering,passengers_exiting,train_id,DayOfWeek,Daytime
+2024-01-20,8:57,Wutthakat,82,77,23,Saturday,Morning
+2024-01-28,10:48,Royal Thai Naval Academy,36,43,70,Sunday,Morning
+2024-03-25,23:39,National Stadium,60,86,62,Monday,Night
+2024-02-06,19:58,Sai Yud,90,9,60,Tuesday,Night
+2024-02-17,17:28,Siam (Interchange with Silom Line),24,71,83,Saturday,Evening
+2024-01-07,14:59,Phahon Yothin 24,57,15,18,Sunday,Afternoon
+2024-02-06,22:34,Ratchayothin,91,59,4,Tuesday,Night
+2024-02-12,6:55,Wat Phra Sri Mahathat,60,36,48,Monday,Morning
+2024-02-17,18:57,Udom Suk,29,68,72,Saturday,Night
+2024-03-06,12:25,Ha Yaek Lat Phrao,81,26,68,Wednesday,Afternoon
+2024-02-25,7:36,Wongwian Yai,91,31,68,Sunday,Morning
+2024-03-11,5:40,Srinagarindra,81,46,33,Monday,Morning
+2024-01-03,22:21,Ari,57,4,97,Wednesday,Night
+2024-03-22,8:36,Sai Yud,6,69,54,Friday,Morning
+2024-01-27,15:43,Sai Yud,78,57,21,Saturday,Night
+2024-02-16,15:49,Mo Chit,44,21,10,Friday,Night
+2024-01-05,23:48,Saphan Khwai,61,78,19,Friday,Night
+2024-01-22,22:48,Sala Daeng,8,50,9,Monday,Night
+2024-01-23,23:29,Wat Phra Sri Mahathat,86,2,36,Tuesday,Night
+2024-02-02,14:37,Ari,87,38,52,Friday,Afternoon
+2024-03-13,22:54,Kheha,38,53,31,Wednesday,Night
+2024-02-14,9:18,Ratchathewi,76,0,69,Wednesday,Morning
+2024-01-25,10:23,Phaya Thai,65,29,91,Thursday,Morning
+2024-01-20,19:30,Phrom Phong,56,59,62,Saturday,Night
+2024-01-31,8:18,Chong Nonsi,95,77,43,Wednesday,Morning
+2024-01-16,16:52,Samrong,26,97,3,Tuesday,Evening
+2024-02-18,8:39,11th Infantry Regiment,60,94,79,Sunday,Morning
+2024-03-17,9:13,Krung Thon Buri,4,90,93,Sunday,Morning
+2024-01-29,7:03,Talat Phlu,20,36,46,Monday,Morning
+2024-01-28,17:30,Pak Nam,44,63,40,Sunday,Evening
+2024-03-06,20:13,Yaek Kor Por Aor,48,6,73,Wednesday,Night
+2024-03-05,6:30,Ratchayothin,91,22,15,Tuesday,Morning
+2024-01-23,11:28,Thong Lo,39,68,46,Tuesday,Morning
+2024-01-08,8:11,Ratchadamri,50,36,7,Monday,Morning
+2024-01-24,11:41,Ploen Chit,31,30,79,Wednesday,Morning
+2024-03-24,14:01,Kheha,3,78,36,Sunday,Afternoon
+2024-03-20,17:59,Ratchathewi,55,87,23,Wednesday,Evening
+2024-01-18,14:20,Sai Yud,39,8,28,Thursday,Afternoon
+2024-03-13,23:51,Bang Chak,51,97,39,Wednesday,Night
+2024-03-27,16:34,Siam (Interchange with Silom Line),71,88,14,Wednesday,Evening
+2024-03-09,16:07,Pho Nimit,4,13,25,Saturday,Evening
+2024-03-04,9:12,Khu Khot.,87,54,53,Monday,Morning
+2024-01-12,22:38,Chong Nonsi,50,40,8,Friday,Night
+2024-02-27,20:35,Pu Chao,24,77,67,Tuesday,Night
+2024-02-06,8:45,11th Infantry Regiment,73,100,87,Tuesday,Morning
+2024-02-01,9:32,Ratchathewi,81,85,4,Thursday,Morning
+2024-02-28,12:26,Chit Lom,70,77,65,Wednesday,Afternoon
+2024-02-17,22:51,Wat Phra Sri Mahathat,45,67,37,Saturday,Night
+2024-02-14,8:13,Saphan Khwai,24,65,82,Wednesday,Morning
+2024-02-02,19:57,Phra Khanong,69,62,33,Friday,Night
+2024-01-29,13:02,Srinagarindra,72,43,64,Monday,Afternoon
+2024-03-14,12:55,Phra Khanong,61,72,14,Thursday,Afternoon
+2024-03-29,17:16,Pho Nimit,84,24,63,Friday,Evening
+2024-02-26,20:15,Sala Daeng,19,1,65,Monday,Night
+2024-03-05,6:19,11th Infantry Regiment,64,68,30,Tuesday,Morning
+2024-01-25,8:46,Phrom Phong,70,93,71,Thursday,Morning
+2024-01-12,7:26,Saphan Taksin,89,61,35,Friday,Morning
+2024-01-21,18:45,Siam (Interchange with Silom Line),31,84,37,Sunday,Night
+2024-01-11,12:28,Bhumibol Adulyadej Hospital,90,57,19,Thursday,Afternoon
+2024-01-05,16:40,Ploen Chit,68,87,19,Friday,Evening
+2024-02-10,8:14,Sena Nikhom,96,60,6,Saturday,Morning
+2024-02-14,13:29,Nana,24,84,35,Wednesday,Afternoon
+2024-02-18,8:43,Chong Nonsi,90,33,19,Sunday,Morning
+2024-02-17,23:28,Ratchathewi,36,59,25,Saturday,Night
+2024-01-30,8:51,Sai Luat,4,18,36,Tuesday,Morning
+2024-01-07,8:45,Chong Nonsi,66,63,35,Sunday,Morning
+2024-03-22,23:23,Ekkamai,94,59,7,Friday,Night
+2024-03-16,22:39,Saphan Khwai,81,27,99,Saturday,Night
+2024-01-22,23:25,Ari,52,15,36,Monday,Night
+2024-01-24,23:30,Wat Phra Sri Mahathat,47,60,14,Wednesday,Night
+2024-03-05,23:38,Saphan Mai,24,56,100,Tuesday,Night
+2024-03-17,5:26,Asok,100,25,19,Sunday,Morning
+2024-02-16,14:42,Phahon Yothin 24,20,56,50,Friday,Afternoon
+2024-01-25,20:25,Bang Wa,44,54,82,Thursday,Night
+2024-01-14,10:08,Bang Chak,82,45,59,Sunday,Morning
+2024-01-01,21:17,Phra Khanong,34,21,64,Monday,Night
+2024-03-25,7:33,Bearing,58,86,52,Monday,Morning
+2024-02-27,11:36,Ratchadamri,46,67,12,Tuesday,Morning
+2024-02-15,10:13,Bang Wa,49,43,100,Thursday,Morning
+2024-03-23,6:20,Ekkamai,54,7,20,Saturday,Morning
+2024-02-02,22:41,Wutthakat,68,45,94,Friday,Night
+2024-02-25,11:02,Bang Wa,29,43,92,Sunday,Morning
+2024-01-21,8:27,Srinagarindra,82,24,20,Sunday,Morning
+2024-02-04,21:18,Mo Chit,38,35,3,Sunday,Night
+2024-01-11,15:55,Phaya Thai,79,7,89,Thursday,Night
+2024-02-03,11:30,Surasak,80,36,17,Saturday,Morning
+2024-03-29,17:03,Sai Yud,32,24,98,Friday,Evening
+2024-02-01,5:11,Sai Yud,36,56,58,Thursday,Morning
+2024-01-06,14:49,Sai Luat,10,16,27,Saturday,Afternoon
+2024-03-11,8:31,Chit Lom,3,1,68,Monday,Morning
+2024-03-17,23:22,Phahon Yothin 24,71,2,15,Sunday,Night
+2024-01-27,5:40,Kasetsart University,48,18,19,Saturday,Morning
+2024-02-02,14:12,Chit Lom,81,82,37,Friday,Afternoon
+2024-01-08,19:19,Royal Thai Naval Academy,86,87,95,Monday,Night
+2024-02-11,11:29,Ekkamai,91,11,71,Sunday,Morning
+2024-03-21,9:01,Pak Nam,51,36,30,Thursday,Morning
+2024-03-07,13:28,Nana,50,62,81,Thursday,Afternoon
+2024-03-01,23:01,Krung Thon Buri,9,36,31,Friday,Night
+2024-01-31,9:13,Kasetsart University,68,98,70,Wednesday,Morning
+2024-02-21,6:54,Wat Phra Sri Mahathat,99,76,81,Wednesday,Morning
+2024-02-27,5:43,Talat Phlu,90,74,81,Tuesday,Morning
+2024-01-05,18:18,Punnawithi,77,91,67,Friday,Night
+2024-01-19,13:43,Srinagarindra,70,84,77,Friday,Afternoon
+2024-01-05,14:58,Chang Erawan,71,98,29,Friday,Afternoon
+2024-01-21,23:47,Ha Yaek Lat Phrao,22,22,24,Sunday,Night
+2024-03-22,17:27,Ari,2,86,94,Friday,Evening
+2024-01-22,16:11,Pu Chao,26,25,2,Monday,Evening
+2024-03-24,5:20,Talat Phlu,76,87,13,Sunday,Morning
+2024-01-22,16:06,Phahon Yothin 59,12,10,24,Monday,Evening
+2024-03-14,10:43,Thong Lo,96,94,62,Thursday,Morning
+2024-01-03,18:47,Saphan Mai,54,96,57,Wednesday,Night
+2024-03-12,16:16,Saphan Khwai,46,74,9,Tuesday,Evening
+2024-03-21,22:33,Siam (Interchange with Sukhumvit Line),46,52,80,Thursday,Night
+2024-01-03,23:50,Ploen Chit,99,34,1,Wednesday,Night
+2024-03-29,10:24,Chong Nonsi,41,26,26,Friday,Morning
+2024-03-19,21:50,Bang Chak,8,0,58,Tuesday,Night
+2024-03-11,14:30,Siam (Interchange with Silom Line),18,62,82,Monday,Afternoon
+2024-01-18,14:03,Royal Forest Department,79,59,96,Thursday,Afternoon
+2024-01-10,20:55,Sanam Pao,38,54,69,Wednesday,Night
+2024-03-29,7:33,Chong Nonsi,33,32,96,Friday,Morning
+2024-01-15,19:11,Srinagarindra,41,22,9,Monday,Night
+2024-03-07,23:42,Bang Wa,30,91,43,Thursday,Night
+2024-02-26,18:40,Royal Thai Naval Academy,77,82,69,Monday,Night
+2024-01-21,23:43,Phaya Thai,19,44,84,Sunday,Night
+2024-03-10,6:08,Wongwian Yai,65,34,57,Sunday,Morning
+2024-02-26,23:08,Ratchayothin,45,88,4,Monday,Night
+2024-01-24,12:41,Krung Thon Buri,11,33,92,Wednesday,Afternoon
+2024-02-11,14:01,Asok,84,84,34,Sunday,Afternoon
+2024-03-22,8:02,Krung Thon Buri,97,34,96,Friday,Morning
+2024-03-24,19:59,On Nut,100,36,7,Sunday,Night
+2024-01-04,7:51,Siam (Interchange with Silom Line),80,86,15,Thursday,Morning
+2024-01-08,22:19,On Nut,60,24,66,Monday,Night
+2024-01-12,5:09,Royal Forest Department,17,48,74,Friday,Morning
+2024-02-15,22:50,Phahon Yothin 24,56,16,79,Thursday,Night
+2024-01-09,20:53,Wongwian Yai,90,29,72,Tuesday,Night
+2024-01-02,15:19,Mo Chit,38,59,77,Tuesday,Night
+2024-03-01,12:26,Phra Khanong,5,82,49,Friday,Afternoon
+2024-02-01,17:36,Surasak,7,40,37,Thursday,Evening
+2024-01-06,7:05,Surasak,88,61,95,Saturday,Morning
+2024-02-20,14:44,Ratchathewi,6,91,64,Tuesday,Afternoon
+2024-03-14,16:47,Khu Khot.,12,99,13,Thursday,Evening
+2024-03-24,16:51,Sai Yud,24,65,58,Sunday,Evening
+2024-02-04,6:28,Ratchadamri,12,96,45,Sunday,Morning
+2024-01-05,20:37,Talat Phlu,92,0,57,Friday,Night
+2024-02-24,11:13,Phrom Phong,39,74,12,Saturday,Morning
+2024-02-14,16:50,Chong Nonsi,70,98,99,Wednesday,Evening
+2024-03-10,14:51,Royal Forest Department,42,66,23,Sunday,Afternoon
+2024-02-24,21:21,Wutthakat,41,57,30,Saturday,Night
+2024-03-23,17:40,Samrong,76,27,39,Saturday,Evening
+2024-02-11,20:55,Punnawithi,70,53,91,Sunday,Night
+2024-01-07,12:47,Bang Wa,78,52,45,Sunday,Afternoon
+2024-03-21,17:14,Pu Chao,16,24,67,Thursday,Evening
+2024-02-23,11:01,Ha Yaek Lat Phrao,89,28,66,Friday,Morning
+2024-01-04,6:23,Ari,16,52,2,Thursday,Morning
+2024-03-21,7:55,National Stadium,52,94,97,Thursday,Morning
+2024-01-12,11:12,Pak Nam,45,51,26,Friday,Morning
+2024-01-04,21:14,Sena Nikhom,98,19,51,Thursday,Night
+2024-01-15,13:03,Srinagarindra,71,96,28,Monday,Afternoon
+2024-03-10,22:14,Saphan Khwai,96,0,47,Sunday,Night
+2024-02-29,16:12,Udom Suk,37,17,24,Thursday,Evening
+2024-02-01,5:58,Phahon Yothin 59,8,38,23,Thursday,Morning
+2024-02-09,18:34,Sena Nikhom,23,35,55,Friday,Night
+2024-03-01,20:12,Chit Lom,70,70,51,Friday,Night
+2024-03-12,5:17,Samrong,40,9,85,Tuesday,Morning
+2024-03-30,20:59,Asok,91,60,17,Saturday,Night
+2024-02-04,10:27,Talat Phlu,70,71,36,Sunday,Morning
+2024-03-08,12:16,Khu Khot.,98,19,66,Friday,Afternoon
+2024-01-21,16:34,Talat Phlu,4,25,56,Sunday,Evening
+2024-03-03,8:34,Pak Nam,24,2,43,Sunday,Morning
+2024-03-13,17:49,Kheha,66,30,77,Wednesday,Evening
+2024-02-07,7:15,Nana,25,68,58,Wednesday,Morning
+2024-03-28,19:20,Bang Na,46,48,76,Thursday,Night
+2024-03-13,17:54,Pu Chao,52,73,55,Wednesday,Evening
+2024-03-12,17:58,Phaya Thai,27,95,72,Tuesday,Evening
+2024-01-08,20:48,Ploen Chit,92,40,11,Monday,Night
+2024-03-20,19:38,Wutthakat,32,84,93,Wednesday,Night
+2024-02-25,21:05,Sala Daeng,69,56,56,Sunday,Night
+2024-02-08,20:59,Bang Na,88,61,92,Thursday,Night
+2024-01-25,21:33,Phra Khanong,81,97,55,Thursday,Night
+2024-03-14,15:17,Chit Lom,60,43,85,Thursday,Night
+2024-03-11,20:57,Bang Wa,82,55,97,Monday,Night
+2024-01-20,21:41,Ratchathewi,91,78,89,Saturday,Night
+2024-02-14,13:02,Krung Thon Buri,63,35,48,Wednesday,Afternoon
+2024-03-21,22:31,National Stadium,15,100,7,Thursday,Night
+2024-03-07,7:17,Ratchayothin,77,44,60,Thursday,Morning
+2024-01-14,9:37,11th Infantry Regiment,41,30,74,Sunday,Morning
+2024-03-20,6:09,Bearing,67,10,18,Wednesday,Morning
+2024-03-28,20:26,Bang Bua,0,16,78,Thursday,Night
+2024-02-29,14:38,Victory Monument,27,54,20,Thursday,Afternoon
+2024-01-23,8:55,Phahon Yothin 24,26,31,59,Tuesday,Morning
+2024-01-16,17:29,Ratchadamri,14,66,92,Tuesday,Evening
+2024-01-15,11:36,Wongwian Yai,33,48,69,Monday,Morning
+2024-03-06,15:02,Ekkamai,80,21,21,Wednesday,Night
+2024-03-11,10:05,Bang Na,93,54,53,Monday,Morning
+2024-03-30,23:31,Phra Khanong,72,6,1,Saturday,Night
+2024-03-04,14:00,On Nut,95,22,44,Monday,Afternoon
+2024-02-09,13:34,Siam (Interchange with Silom Line),21,15,82,Friday,Afternoon
+2024-02-21,13:26,Phahon Yothin 59,1,8,32,Wednesday,Afternoon
+2024-01-25,13:42,Ha Yaek Lat Phrao,100,28,66,Thursday,Afternoon
+2024-03-26,14:36,Sanam Pao,76,68,57,Tuesday,Afternoon
+2024-02-23,22:30,Bang Bua,41,74,36,Friday,Night
+2024-03-20,8:41,Sena Nikhom,79,95,80,Wednesday,Morning
+2024-02-06,12:29,Kheha,69,96,60,Tuesday,Afternoon
+2024-02-21,16:14,Talat Phlu,32,2,87,Wednesday,Evening
+2024-01-19,17:04,Phraek Sa,1,25,37,Friday,Evening
+2024-01-27,9:01,Surasak,93,1,90,Saturday,Morning
+2024-03-27,8:55,Wutthakat,14,66,65,Wednesday,Morning
+2024-03-27,17:54,Kasetsart University,59,98,71,Wednesday,Evening
+2024-02-20,15:00,Phaya Thai,78,17,84,Tuesday,Night
+2024-02-23,8:08,Saphan Taksin,97,95,34,Friday,Morning
+2024-03-23,18:12,Phaya Thai,83,39,53,Saturday,Night
+2024-01-10,7:02,On Nut,45,90,76,Wednesday,Morning
+2024-01-12,16:56,Chang Erawan,86,31,33,Friday,Evening
+2024-01-14,9:54,Ratchayothin,58,41,76,Sunday,Morning
+2024-01-01,18:42,Saphan Khwai,27,68,50,Monday,Night
+2024-01-25,6:38,Ratchayothin,39,83,63,Thursday,Morning
+2024-02-14,17:33,Bang Wa,60,12,22,Wednesday,Evening
+2024-03-27,12:21,Asok,53,86,8,Wednesday,Afternoon
+2024-03-05,13:59,Victory Monument,86,37,29,Tuesday,Afternoon
+2024-03-14,10:03,Phahon Yothin 24,13,100,59,Thursday,Morning
+2024-02-22,22:46,Wutthakat,31,53,63,Thursday,Night
+2024-01-21,17:25,Talat Phlu,93,34,44,Sunday,Evening
+2024-03-01,19:57,Nana,93,91,47,Friday,Night
+2024-01-20,15:51,Sena Nikhom,38,69,6,Saturday,Night
+2024-03-05,14:25,Ratchadamri,23,74,52,Tuesday,Afternoon
+2024-02-28,16:52,11th Infantry Regiment,48,55,15,Wednesday,Evening
+2024-02-19,10:40,Ratchadamri,9,37,68,Monday,Morning
+2024-01-29,23:01,Chong Nonsi,97,50,78,Monday,Night
+2024-03-10,15:46,Phahon Yothin 59,73,0,77,Sunday,Night
+2024-03-02,13:13,Ratchadamri,22,87,2,Saturday,Afternoon
+2024-02-05,21:33,Khu Khot.,39,2,36,Monday,Night
+2024-03-08,16:37,Bang Chak,59,19,45,Friday,Evening
+2024-03-27,11:43,Saphan Khwai,5,73,68,Wednesday,Morning
+2024-01-17,13:39,Bhumibol Adulyadej Hospital,12,66,8,Wednesday,Afternoon
+2024-03-15,14:47,Thong Lo,57,25,78,Friday,Afternoon
+2024-03-17,18:40,Saphan Taksin,27,18,80,Sunday,Night
+2024-01-18,11:39,Ploen Chit,32,2,70,Thursday,Morning
+2024-02-13,5:39,Bhumibol Adulyadej Hospital,91,38,64,Tuesday,Morning
+2024-02-15,6:54,Punnawithi,46,41,51,Thursday,Morning
+2024-01-20,16:34,Nana,18,34,92,Saturday,Evening
+2024-01-03,20:55,Udom Suk,100,20,37,Wednesday,Night
+2024-03-02,9:27,Pak Nam,60,22,22,Saturday,Morning
+2024-01-17,17:40,Wat Phra Sri Mahathat,88,1,97,Wednesday,Evening
+2024-01-05,14:13,Ploen Chit,16,67,95,Friday,Afternoon
+2024-02-08,15:20,Saphan Mai,48,43,4,Thursday,Night
+2024-02-13,16:54,Wat Phra Sri Mahathat,13,85,47,Tuesday,Evening
+2024-01-24,13:07,Surasak,70,68,55,Wednesday,Afternoon
+2024-01-09,14:32,Ratchayothin,80,36,34,Tuesday,Afternoon
+2024-01-01,22:19,Ploen Chit,84,24,28,Monday,Night
+2024-01-18,16:05,Sanam Pao,22,4,90,Thursday,Evening
+2024-02-23,15:30,Kheha,100,70,36,Friday,Night
+2024-03-13,15:10,Bang Na,73,17,24,Wednesday,Night
+2024-03-14,10:43,11th Infantry Regiment,4,21,20,Thursday,Morning
+2024-02-06,12:57,Ekkamai,44,24,94,Tuesday,Afternoon
+2024-01-28,16:47,Saphan Mai,100,78,70,Sunday,Evening
+2024-02-26,19:47,Royal Forest Department,25,19,80,Monday,Night
+2024-02-19,7:50,Kasetsart University,18,24,7,Monday,Morning
+2024-03-08,22:39,Kheha,10,51,42,Friday,Night
+2024-03-17,7:20,Mo Chit,23,54,68,Sunday,Morning
+2024-01-27,18:58,Ploen Chit,38,74,8,Saturday,Night
+2024-01-20,13:18,Srinagarindra,47,50,42,Saturday,Afternoon
+2024-03-17,14:21,Phra Khanong,49,48,59,Sunday,Afternoon
+2024-02-05,21:30,Talat Phlu,60,85,98,Monday,Night
+2024-03-17,23:16,Khu Khot.,24,92,7,Sunday,Night
+2024-03-09,19:42,11th Infantry Regiment,28,23,77,Saturday,Night
+2024-03-11,15:51,Phraek Sa,90,31,3,Monday,Night
+2024-03-28,20:59,Ratchayothin,17,53,72,Thursday,Night
+2024-02-06,20:54,Bearing,84,57,32,Tuesday,Night
+2024-03-08,8:16,Sanam Pao,88,79,20,Friday,Morning
+2024-01-24,16:20,Talat Phlu,81,45,40,Wednesday,Evening
+2024-03-13,22:59,11th Infantry Regiment,86,27,94,Wednesday,Night
+2024-03-04,7:26,Krung Thon Buri,46,81,21,Monday,Morning
+2024-03-19,14:57,Ari,33,44,99,Tuesday,Afternoon
+2024-02-01,22:36,Sai Yud,12,4,87,Thursday,Night
+2024-01-06,18:12,Phra Khanong,57,40,52,Saturday,Night
+2024-03-02,9:12,Bhumibol Adulyadej Hospital,26,31,89,Saturday,Morning
+2024-02-29,11:48,Udom Suk,25,84,4,Thursday,Morning
+2024-01-28,14:19,Wongwian Yai,66,99,64,Sunday,Afternoon
+2024-02-04,22:59,Phraek Sa,40,97,61,Sunday,Night
+2024-01-20,21:29,Sena Nikhom,71,0,71,Saturday,Night
+2024-02-09,13:12,Phahon Yothin 59,69,97,92,Friday,Afternoon
+2024-01-14,16:47,Saphan Khwai,10,63,16,Sunday,Evening
+2024-01-28,15:05,Siam (Interchange with Silom Line),87,6,61,Sunday,Night
+2024-02-05,7:32,Kheha,52,8,40,Monday,Morning
+2024-02-11,21:44,Bearing,23,72,62,Sunday,Night
+2024-03-05,9:22,Bearing,15,87,59,Tuesday,Morning
+2024-02-22,11:39,Udom Suk,82,75,87,Thursday,Morning
+2024-03-21,17:11,Ha Yaek Lat Phrao,70,56,68,Thursday,Evening
+2024-03-21,19:57,Asok,80,9,2,Thursday,Night
+2024-01-25,6:22,11th Infantry Regiment,86,37,43,Thursday,Morning
+2024-01-30,23:18,Phra Khanong,79,21,10,Tuesday,Night
+2024-03-17,11:02,Saphan Khwai,73,57,58,Sunday,Morning
+2024-03-14,17:17,Siam (Interchange with Silom Line),88,71,27,Thursday,Evening
+2024-01-22,19:45,Bang Na,13,78,26,Monday,Night
+2024-01-03,19:28,Royal Thai Naval Academy,62,56,88,Wednesday,Night
+2024-01-28,17:03,Sai Yud,17,29,67,Sunday,Evening
+2024-03-23,16:30,Pak Nam,22,35,68,Saturday,Evening
+2024-02-06,15:52,On Nut,86,67,85,Tuesday,Night
+2024-02-29,5:00,Wat Phra Sri Mahathat,46,68,15,Thursday,Morning
+2024-02-29,7:45,Bearing,90,0,31,Thursday,Morning
+2024-03-18,15:03,Sai Luat,50,20,62,Monday,Night
+2024-02-26,15:02,Phraek Sa,90,56,24,Monday,Night
+2024-02-10,20:49,Victory Monument,36,59,70,Saturday,Night
+2024-01-28,19:42,Saphan Taksin,54,93,69,Sunday,Night
+2024-02-23,14:41,Krung Thon Buri,91,67,10,Friday,Afternoon
+2024-03-21,14:12,Wutthakat,65,40,96,Thursday,Afternoon
+2024-03-17,11:20,Ratchathewi,75,63,54,Sunday,Morning
+2024-03-05,5:21,Royal Forest Department,45,77,33,Tuesday,Morning
+2024-03-18,22:26,Ploen Chit,58,45,10,Monday,Night
+2024-01-16,15:07,National Stadium,22,6,87,Tuesday,Night
+2024-03-25,19:36,Siam (Interchange with Sukhumvit Line),71,21,50,Monday,Night
+2024-01-07,10:32,Bearing,80,6,86,Sunday,Morning
+2024-02-26,23:10,Siam (Interchange with Sukhumvit Line),43,76,30,Monday,Night
+2024-02-17,16:11,Kheha,67,55,91,Saturday,Evening
+2024-01-20,15:26,Kasetsart University,53,68,3,Saturday,Night
+2024-02-19,13:02,Udom Suk,2,34,5,Monday,Afternoon
+2024-01-04,5:10,Chit Lom,43,54,48,Thursday,Morning
+2024-01-04,15:43,Sena Nikhom,16,32,10,Thursday,Night
+2024-01-13,20:32,Sai Yud,45,55,99,Saturday,Night
+2024-03-10,19:44,Chang Erawan,24,87,26,Sunday,Night
+2024-03-29,18:19,Ratchayothin,35,60,100,Friday,Night
+2024-01-24,13:36,Phaya Thai,14,17,69,Wednesday,Afternoon
+2024-03-13,11:16,Sena Nikhom,94,66,41,Wednesday,Morning
+2024-01-13,6:22,Pu Chao,3,13,24,Saturday,Morning
+2024-02-14,5:37,Phra Khanong,97,77,33,Wednesday,Morning
+2024-01-30,9:26,Krung Thon Buri,39,36,32,Tuesday,Morning
+2024-02-16,10:20,Kheha,29,55,98,Friday,Morning
+2024-03-25,17:16,Sai Luat,84,77,68,Monday,Evening
+2024-03-06,7:16,Srinagarindra,92,30,20,Wednesday,Morning
+2024-01-18,22:50,Phraek Sa,28,35,61,Thursday,Night
+2024-01-10,6:10,Ekkamai,73,100,58,Wednesday,Morning
+2024-01-14,19:59,Siam (Interchange with Silom Line),1,92,43,Sunday,Night
+2024-03-08,5:28,Talat Phlu,72,39,25,Friday,Morning
+2024-01-25,18:56,Ratchadamri,59,5,29,Thursday,Night
+2024-02-14,14:22,Srinagarindra,38,34,55,Wednesday,Afternoon
+2024-03-17,9:59,Victory Monument,69,4,88,Sunday,Morning
+2024-01-25,21:22,Saphan Mai,64,57,64,Thursday,Night
+2024-03-12,19:07,Mo Chit,18,83,73,Tuesday,Night
+2024-02-04,12:03,Ekkamai,52,88,43,Sunday,Afternoon
+2024-01-01,18:55,Ari,51,37,67,Monday,Night
+2024-02-18,17:02,On Nut,5,6,17,Sunday,Evening
+2024-03-08,18:53,Kheha,10,13,93,Friday,Night
+2024-03-27,16:30,Surasak,8,2,70,Wednesday,Evening
+2024-02-03,9:49,On Nut,76,37,36,Saturday,Morning
+2024-03-28,5:28,Surasak,83,58,78,Thursday,Morning
+2024-01-17,13:18,Bang Bua,26,32,45,Wednesday,Afternoon
+2024-03-02,12:00,Nana,50,40,85,Saturday,Afternoon
+2024-02-03,19:57,Sai Yud,32,10,42,Saturday,Night
+2024-03-20,10:22,Udom Suk,37,68,37,Wednesday,Morning
+2024-02-29,22:17,Saphan Khwai,40,82,42,Thursday,Night
+2024-02-08,14:35,Chong Nonsi,47,9,25,Thursday,Afternoon
+2024-03-14,21:23,Udom Suk,76,8,89,Thursday,Night
+2024-02-12,15:33,Ari,54,78,66,Monday,Night
+2024-02-07,16:59,Ploen Chit,75,65,15,Wednesday,Evening
+2024-02-18,7:37,Kasetsart University,33,77,5,Sunday,Morning
+2024-01-13,19:47,Victory Monument,66,84,54,Saturday,Night
+2024-01-27,19:04,Ratchathewi,2,19,72,Saturday,Night
+2024-01-01,7:59,Phaya Thai,92,98,22,Monday,Morning
+2024-01-11,17:41,Bang Wa,43,92,80,Thursday,Evening
+2024-02-28,19:48,Sanam Pao,51,71,89,Wednesday,Night
+2024-01-02,16:03,Phahon Yothin 59,88,28,14,Tuesday,Evening
+2024-01-27,19:52,Wongwian Yai,83,40,68,Saturday,Night
+2024-01-07,8:05,Yaek Kor Por Aor,41,69,1,Sunday,Morning
+2024-02-15,18:12,Phahon Yothin 59,85,98,53,Thursday,Night
+2024-01-12,12:41,National Stadium,54,55,95,Friday,Afternoon
+2024-01-10,20:53,Kheha,34,15,72,Wednesday,Night
+2024-02-10,9:17,Phraek Sa,41,20,23,Saturday,Morning
+2024-03-03,15:29,Phahon Yothin 24,89,28,86,Sunday,Night
+2024-03-27,22:26,Sai Yud,57,57,53,Wednesday,Night
+2024-01-29,12:19,Chang Erawan,2,63,9,Monday,Afternoon
+2024-02-09,14:51,Phaya Thai,43,89,36,Friday,Afternoon
+2024-03-09,7:01,Phra Khanong,75,60,43,Saturday,Morning
+2024-01-22,8:57,Kheha,76,35,27,Monday,Morning
+2024-01-18,16:50,Srinagarindra,61,8,30,Thursday,Evening
+2024-03-15,6:32,Phahon Yothin 59,45,54,32,Friday,Morning
+2024-03-10,18:36,Wat Phra Sri Mahathat,2,48,4,Sunday,Night
+2024-03-20,20:15,Phrom Phong,9,34,26,Wednesday,Night
+2024-01-26,5:15,Bearing,1,4,19,Friday,Morning
+2024-03-19,21:36,Sanam Pao,56,97,71,Tuesday,Night
+2024-03-24,6:56,Phahon Yothin 59,37,83,67,Sunday,Morning
+2024-01-14,16:48,Phaya Thai,89,98,64,Sunday,Evening
+2024-02-29,16:49,Bearing,59,16,100,Thursday,Evening
+2024-02-05,22:19,Punnawithi,19,84,47,Monday,Night
+2024-01-12,12:03,Phahon Yothin 24,78,13,96,Friday,Afternoon
+2024-02-07,15:49,Bearing,25,91,44,Wednesday,Night
+2024-01-03,22:57,Phahon Yothin 59,53,29,16,Wednesday,Night
+2024-01-02,12:55,Victory Monument,100,64,29,Tuesday,Afternoon
+2024-01-04,21:22,Phraek Sa,28,98,30,Thursday,Night
+2024-02-24,23:53,Wongwian Yai,89,83,88,Saturday,Night
+2024-03-14,7:01,Bang Bua,29,75,76,Thursday,Morning
+2024-01-22,11:40,Thong Lo,9,17,24,Monday,Morning
+2024-03-07,20:20,Wutthakat,6,67,71,Thursday,Night
+2024-01-24,7:15,Asok,36,48,41,Wednesday,Morning
+2024-03-04,7:25,Chong Nonsi,79,55,84,Monday,Morning
+2024-02-09,11:11,Thong Lo,94,90,9,Friday,Morning
+2024-01-02,22:40,Asok,83,88,5,Tuesday,Night
+2024-01-05,6:15,Phra Khanong,69,38,88,Friday,Morning
+2024-01-02,7:33,On Nut,25,9,90,Tuesday,Morning
+2024-03-18,15:18,Victory Monument,54,36,97,Monday,Night
+2024-01-21,17:04,Yaek Kor Por Aor,11,2,34,Sunday,Evening
+2024-03-02,12:05,Wongwian Yai,70,45,61,Saturday,Afternoon
+2024-02-29,18:54,Ratchadamri,43,67,8,Thursday,Night
+2024-03-15,19:57,Ratchadamri,56,72,51,Friday,Night
+2024-01-13,13:44,Phra Khanong,98,38,90,Saturday,Afternoon
+2024-02-13,9:40,Royal Thai Naval Academy,39,96,25,Tuesday,Morning
+2024-02-12,22:11,Bang Bua,94,85,30,Monday,Night
+2024-01-13,17:39,Kasetsart University,88,57,66,Saturday,Evening
+2024-02-06,8:51,Mo Chit,65,71,64,Tuesday,Morning
+2024-02-29,15:15,Ari,90,77,74,Thursday,Night
+2024-01-10,14:31,11th Infantry Regiment,83,41,78,Wednesday,Afternoon
+2024-03-03,22:43,Phaya Thai,5,42,10,Sunday,Night
+2024-01-13,13:29,Srinagarindra,81,24,22,Saturday,Afternoon
+2024-03-06,20:29,Mo Chit,46,86,38,Wednesday,Night
+2024-02-05,16:02,Punnawithi,45,54,3,Monday,Evening
+2024-02-05,23:25,Pak Nam,99,40,90,Monday,Night
+2024-02-13,16:39,Chit Lom,56,47,71,Tuesday,Evening
+2024-02-17,19:08,Mo Chit,77,82,66,Saturday,Night
+2024-01-21,14:04,National Stadium,79,40,35,Sunday,Afternoon
+2024-03-25,9:41,Pho Nimit,83,60,32,Monday,Morning
+2024-01-03,18:16,Pu Chao,77,4,19,Wednesday,Night
+2024-02-25,7:14,Talat Phlu,95,71,55,Sunday,Morning
+2024-02-03,8:18,Sala Daeng,90,12,40,Saturday,Morning
+2024-03-13,7:09,On Nut,46,43,6,Wednesday,Morning
+2024-01-19,17:47,Nana,26,17,35,Friday,Evening
+2024-02-10,23:18,Chong Nonsi,74,91,84,Saturday,Night
+2024-02-12,13:51,Saphan Taksin,23,79,7,Monday,Afternoon
+2024-03-29,17:59,Ekkamai,48,91,3,Friday,Evening
+2024-03-18,14:21,Khu Khot.,62,58,93,Monday,Afternoon
+2024-02-22,20:04,Sena Nikhom,54,23,48,Thursday,Night
+2024-02-20,6:55,Sala Daeng,92,63,20,Tuesday,Morning
+2024-01-25,22:49,Ari,54,95,12,Thursday,Night
+2024-01-07,8:19,Thong Lo,37,68,5,Sunday,Morning
+2024-03-04,11:00,Saphan Taksin,42,67,10,Monday,Morning
+2024-02-03,21:15,Bhumibol Adulyadej Hospital,38,0,93,Saturday,Night
+2024-03-01,23:22,Chit Lom,32,21,80,Friday,Night
+2024-01-10,7:42,Phaya Thai,67,6,78,Wednesday,Morning
+2024-02-29,12:00,Mo Chit,58,8,48,Thursday,Afternoon
+2024-01-05,13:31,Bang Wa,97,75,13,Friday,Afternoon
+2024-03-26,16:44,Sala Daeng,95,99,43,Tuesday,Evening
+2024-01-08,5:45,11th Infantry Regiment,44,85,75,Monday,Morning
+2024-01-25,7:03,Royal Thai Naval Academy,37,10,62,Thursday,Morning
+2024-03-24,12:27,Ploen Chit,84,30,59,Sunday,Afternoon
+2024-02-09,17:52,Phahon Yothin 59,15,24,64,Friday,Evening
+2024-01-21,6:02,Kheha,50,79,99,Sunday,Morning
+2024-01-22,9:55,Ratchathewi,88,37,57,Monday,Morning
+2024-02-14,10:44,Sala Daeng,20,98,29,Wednesday,Morning
+2024-02-11,13:18,Sala Daeng,54,22,28,Sunday,Afternoon
+2024-02-13,12:09,Surasak,59,46,65,Tuesday,Afternoon
+2024-03-22,21:06,Sena Nikhom,31,39,33,Friday,Night
+2024-03-23,11:30,On Nut,32,67,72,Saturday,Morning
+2024-03-18,19:41,Surasak,90,30,18,Monday,Night
+2024-03-28,18:13,Asok,85,84,74,Thursday,Night
+2024-01-18,10:35,On Nut,98,43,75,Thursday,Morning
+2024-01-15,21:42,Yaek Kor Por Aor,80,69,91,Monday,Night
+2024-01-17,8:06,Royal Thai Naval Academy,17,90,60,Wednesday,Morning
+2024-03-23,6:32,Sai Yud,62,28,41,Saturday,Morning
+2024-02-18,18:02,Victory Monument,1,53,95,Sunday,Night
+2024-02-06,19:07,Saphan Taksin,98,22,31,Tuesday,Night
+2024-03-08,8:28,Victory Monument,76,82,82,Friday,Morning
+2024-02-24,9:58,Surasak,15,40,72,Saturday,Morning
+2024-03-08,5:12,Wutthakat,33,15,17,Friday,Morning
+2024-03-15,13:34,Pak Nam,31,96,76,Friday,Afternoon
+2024-02-05,13:47,Chang Erawan,65,11,51,Monday,Afternoon
+2024-02-16,18:28,Phraek Sa,70,16,59,Friday,Night
+2024-01-02,20:59,Bang Chak,66,17,58,Tuesday,Night
+2024-02-21,17:32,Saphan Khwai,55,80,71,Wednesday,Evening
+2024-01-09,23:38,Chang Erawan,14,51,70,Tuesday,Night
+2024-02-12,10:37,Udom Suk,0,82,19,Monday,Morning
+2024-02-29,21:08,Ratchayothin,97,31,47,Thursday,Night
+2024-01-01,12:57,Pak Nam,86,30,61,Monday,Afternoon
+2024-03-15,20:47,Phrom Phong,2,35,98,Friday,Night
+2024-02-08,12:58,Talat Phlu,68,85,18,Thursday,Afternoon
+2024-02-29,18:53,Royal Thai Naval Academy,69,5,93,Thursday,Night
+2024-03-26,23:09,Bang Wa,57,2,6,Tuesday,Night
+2024-02-15,11:40,Saphan Mai,44,82,2,Thursday,Morning
+2024-03-30,23:47,Chong Nonsi,39,88,23,Saturday,Night
+2024-03-11,19:40,Sai Luat,31,74,58,Monday,Night
+2024-03-02,21:56,11th Infantry Regiment,4,18,4,Saturday,Night
+2024-03-08,21:18,Victory Monument,4,4,32,Friday,Night
+2024-01-16,5:31,Ploen Chit,99,71,94,Tuesday,Morning
+2024-03-29,7:28,Bhumibol Adulyadej Hospital,32,37,92,Friday,Morning
+2024-02-11,15:24,Ploen Chit,26,3,66,Sunday,Night
+2024-01-01,5:51,Pho Nimit,33,85,94,Monday,Morning
+2024-01-25,19:28,On Nut,24,24,18,Thursday,Night
+2024-03-15,12:01,Kasetsart University,64,12,98,Friday,Afternoon
+2024-01-18,18:09,Phrom Phong,67,60,32,Thursday,Night
+2024-03-27,19:05,National Stadium,12,0,27,Wednesday,Night
+2024-01-08,14:10,11th Infantry Regiment,81,32,82,Monday,Afternoon
+2024-02-17,18:21,Nana,1,22,97,Saturday,Night
+2024-02-08,5:25,Bang Wa,3,66,95,Thursday,Morning
+2024-01-12,10:35,Ha Yaek Lat Phrao,10,85,35,Friday,Morning
+2024-03-16,16:16,Royal Thai Naval Academy,19,67,11,Saturday,Evening
+2024-02-04,19:07,Royal Thai Naval Academy,96,6,21,Sunday,Night
+2024-01-03,10:37,Kheha,72,95,85,Wednesday,Morning
+2024-01-13,23:10,Bhumibol Adulyadej Hospital,69,53,88,Saturday,Night
+2024-01-22,6:34,Pu Chao,16,27,53,Monday,Morning
+2024-03-30,21:05,Wat Phra Sri Mahathat,33,12,35,Saturday,Night
+2024-01-28,5:08,Siam (Interchange with Silom Line),14,20,73,Sunday,Morning
+2024-01-07,21:19,Siam (Interchange with Sukhumvit Line),37,5,40,Sunday,Night
+2024-01-05,19:13,Udom Suk,66,19,52,Friday,Night
+2024-03-22,13:54,Phra Khanong,44,34,67,Friday,Afternoon
+2024-03-12,14:04,Thong Lo,4,3,12,Tuesday,Afternoon
+2024-03-19,17:02,Phrom Phong,76,16,20,Tuesday,Evening
+2024-01-09,10:49,Surasak,4,46,15,Tuesday,Morning
+2024-01-15,23:50,Bearing,43,30,17,Monday,Night
+2024-03-10,6:12,Victory Monument,38,78,75,Sunday,Morning
+2024-02-03,21:05,Saphan Mai,92,78,41,Saturday,Night
+2024-01-24,20:37,Sala Daeng,77,61,70,Wednesday,Night
+2024-03-01,6:27,Bang Na,92,5,78,Friday,Morning
+2024-03-30,21:13,Bang Wa,31,91,4,Saturday,Night
+2024-02-25,7:49,Victory Monument,80,94,62,Sunday,Morning
+2024-02-07,12:46,National Stadium,70,88,89,Wednesday,Afternoon
+2024-03-03,23:20,Sala Daeng,85,68,43,Sunday,Night
+2024-02-15,22:23,Siam (Interchange with Sukhumvit Line),52,85,60,Thursday,Night
+2024-01-26,9:39,Chang Erawan,66,49,5,Friday,Morning
+2024-01-09,13:22,Saphan Mai,56,97,1,Tuesday,Afternoon
+2024-03-13,7:55,Krung Thon Buri,16,4,29,Wednesday,Morning
+2024-01-16,11:05,Victory Monument,34,53,21,Tuesday,Morning
+2024-01-16,6:31,Udom Suk,12,42,68,Tuesday,Morning
+2024-01-31,22:38,Saphan Taksin,33,80,66,Wednesday,Night
+2024-03-16,21:03,Bhumibol Adulyadej Hospital,56,11,84,Saturday,Night
+2024-01-19,8:14,Pak Nam,37,69,71,Friday,Morning
+2024-01-16,10:20,Bang Bua,92,65,28,Tuesday,Morning
+2024-02-15,10:04,Wutthakat,14,79,58,Thursday,Morning
+2024-02-17,15:04,Siam (Interchange with Silom Line),84,13,38,Saturday,Night
+2024-02-04,17:58,Srinagarindra,16,45,18,Sunday,Evening
+2024-03-05,16:54,Mo Chit,77,96,32,Tuesday,Evening
+2024-02-15,19:25,Ratchathewi,68,50,33,Thursday,Night
+2024-01-18,6:27,Ploen Chit,6,36,85,Thursday,Morning
+2024-02-05,21:32,Sai Luat,66,70,2,Monday,Night
+2024-02-07,13:10,Bang Bua,26,4,94,Wednesday,Afternoon
+2024-02-11,21:53,Kheha,47,69,25,Sunday,Night
+2024-01-11,12:22,Ha Yaek Lat Phrao,39,15,45,Thursday,Afternoon
+2024-02-10,11:14,Wutthakat,7,6,69,Saturday,Morning
+2024-01-22,20:48,Kheha,59,80,68,Monday,Night
+2024-03-19,19:40,Chang Erawan,28,32,5,Tuesday,Night
+2024-01-08,12:28,Punnawithi,52,57,75,Monday,Afternoon
+2024-02-05,23:12,Nana,13,7,9,Monday,Night
+2024-01-01,11:56,Wutthakat,17,100,75,Monday,Morning
+2024-01-02,20:18,Saphan Taksin,94,9,82,Tuesday,Night
+2024-01-01,6:40,Pak Nam,60,30,100,Monday,Morning
+2024-03-14,17:21,Chang Erawan,85,92,22,Thursday,Evening
+2024-01-06,21:41,Yaek Kor Por Aor,4,16,73,Saturday,Night
+2024-02-07,11:24,Kasetsart University,12,97,89,Wednesday,Morning
+2024-03-12,21:40,Sai Luat,44,69,17,Tuesday,Night
+2024-03-27,6:42,Saphan Khwai,25,64,77,Wednesday,Morning
+2024-01-02,14:13,Khu Khot.,35,4,56,Tuesday,Afternoon
+2024-02-05,11:05,Sai Luat,79,48,45,Monday,Morning
+2024-02-08,20:39,Nana,51,68,8,Thursday,Night
+2024-02-15,20:01,Bearing,66,53,57,Thursday,Night
+2024-03-13,13:20,Saphan Mai,1,30,36,Wednesday,Afternoon
+2024-03-23,10:26,Victory Monument,40,73,68,Saturday,Morning
+2024-02-13,23:05,Chit Lom,43,90,22,Tuesday,Night
+2024-01-30,22:49,Wongwian Yai,58,63,14,Tuesday,Night
+2024-03-03,9:45,Royal Thai Naval Academy,80,48,46,Sunday,Morning
+2024-01-24,17:04,11th Infantry Regiment,90,22,71,Wednesday,Evening
+2024-02-14,21:42,Mo Chit,16,36,26,Wednesday,Night
+2024-03-28,18:44,Siam (Interchange with Sukhumvit Line),5,100,50,Thursday,Night
+2024-02-11,7:17,Saphan Mai,45,17,97,Sunday,Morning
+2024-03-11,18:21,Udom Suk,31,59,32,Monday,Night
+2024-01-13,14:09,Surasak,83,60,55,Saturday,Afternoon
+2024-02-25,12:00,Thong Lo,72,40,8,Sunday,Afternoon
+2024-03-26,16:24,Wongwian Yai,60,57,41,Tuesday,Evening
+2024-03-11,11:08,Phrom Phong,63,53,51,Monday,Morning
+2024-02-06,9:39,Phra Khanong,21,40,86,Tuesday,Morning
+2024-02-16,20:52,Sai Yud,23,26,34,Friday,Night
+2024-01-15,15:36,Pu Chao,96,51,42,Monday,Night
+2024-01-09,22:23,Ploen Chit,8,92,91,Tuesday,Night
+2024-03-18,23:10,Wongwian Yai,97,78,14,Monday,Night
+2024-01-01,9:29,Krung Thon Buri,93,0,35,Monday,Morning
+2024-01-12,18:51,Bang Chak,65,61,75,Friday,Night
+2024-02-08,14:45,Ratchayothin,90,80,62,Thursday,Afternoon
+2024-03-02,13:09,Royal Forest Department,41,21,9,Saturday,Afternoon
+2024-03-09,13:32,Siam (Interchange with Silom Line),10,60,48,Saturday,Afternoon
+2024-02-15,17:40,Phahon Yothin 59,16,79,40,Thursday,Evening
+2024-01-27,15:53,Saphan Taksin,71,68,96,Saturday,Night
+2024-01-13,21:05,Ha Yaek Lat Phrao,10,74,79,Saturday,Night
+2024-03-15,14:39,Phahon Yothin 24,71,56,71,Friday,Afternoon
+2024-01-15,6:52,Surasak,41,45,33,Monday,Morning
+2024-02-21,17:09,Srinagarindra,91,80,33,Wednesday,Evening
+2024-01-29,18:07,Victory Monument,19,32,24,Monday,Night
+2024-02-04,12:46,Mo Chit,89,75,86,Sunday,Afternoon
+2024-01-03,19:32,Punnawithi,44,11,59,Wednesday,Night
+2024-03-26,5:20,Srinagarindra,54,97,86,Tuesday,Morning
+2024-03-12,13:02,Surasak,40,62,77,Tuesday,Afternoon
+2024-03-30,11:45,Chit Lom,69,12,99,Saturday,Morning
+2024-03-05,14:39,Royal Thai Naval Academy,69,52,81,Tuesday,Afternoon
+2024-01-13,20:28,Phrom Phong,90,66,69,Saturday,Night
+2024-02-07,16:52,Samrong,90,1,56,Wednesday,Evening
+2024-03-23,19:08,Krung Thon Buri,4,55,12,Saturday,Night
+2024-02-27,9:27,National Stadium,22,80,63,Tuesday,Morning
+2024-02-07,16:18,Phaya Thai,42,12,15,Wednesday,Evening
+2024-03-10,11:02,Ratchathewi,96,21,82,Sunday,Morning
+2024-01-30,6:44,Mo Chit,18,42,76,Tuesday,Morning
+2024-02-24,22:52,Sanam Pao,61,22,47,Saturday,Night
+2024-03-15,10:23,Wat Phra Sri Mahathat,23,1,23,Friday,Morning
+2024-02-12,22:00,Bhumibol Adulyadej Hospital,91,84,45,Monday,Night
+2024-01-04,23:44,Saphan Taksin,33,77,14,Thursday,Night
+2024-02-23,23:34,Royal Forest Department,3,62,43,Friday,Night
+2024-01-30,8:29,On Nut,50,18,70,Tuesday,Morning
+2024-02-18,23:24,Sala Daeng,65,43,81,Sunday,Night
+2024-02-18,9:03,Surasak,12,64,70,Sunday,Morning
+2024-01-16,23:27,Asok,16,0,86,Tuesday,Night
+2024-03-21,6:32,11th Infantry Regiment,78,35,31,Thursday,Morning
+2024-02-04,19:15,Kheha,63,31,66,Sunday,Night
+2024-01-15,9:20,Pu Chao,79,11,42,Monday,Morning
+2024-01-15,13:16,Pak Nam,1,98,41,Monday,Afternoon
+2024-03-05,23:10,Udom Suk,14,25,63,Tuesday,Night
+2024-02-04,19:32,Nana,91,56,53,Sunday,Night
+2024-02-02,19:10,Chang Erawan,46,32,91,Friday,Night
+2024-03-19,23:45,Thong Lo,11,95,21,Tuesday,Night
+2024-02-26,23:37,Ploen Chit,16,83,60,Monday,Night
+2024-02-08,21:45,Phraek Sa,4,74,59,Thursday,Night
+2024-03-16,15:10,Wongwian Yai,100,92,3,Saturday,Night
+2024-01-20,17:40,Bang Bua,61,68,73,Saturday,Evening
+2024-01-02,13:13,Pak Nam,17,65,75,Tuesday,Afternoon
+2024-02-14,15:26,Ari,48,67,38,Wednesday,Night
+2024-01-29,11:27,Siam (Interchange with Sukhumvit Line),92,68,58,Monday,Morning
+2024-01-20,7:47,11th Infantry Regiment,76,86,77,Saturday,Morning
+2024-02-24,15:36,Nana,39,98,58,Saturday,Night
+2024-03-19,16:03,Ratchathewi,24,57,72,Tuesday,Evening
+2024-01-22,14:43,Ari,35,17,45,Monday,Afternoon
+2024-03-16,14:37,Saphan Khwai,62,65,53,Saturday,Afternoon
+2024-01-21,15:22,Ratchathewi,0,50,14,Sunday,Night
+2024-01-22,20:03,Royal Thai Naval Academy,46,6,54,Monday,Night
+2024-02-19,8:18,On Nut,38,23,25,Monday,Morning
+2024-01-26,7:14,Sanam Pao,70,8,98,Friday,Morning
+2024-02-13,12:21,National Stadium,24,37,4,Tuesday,Afternoon
+2024-01-02,21:01,Ploen Chit,16,38,74,Tuesday,Night
+2024-01-11,10:34,Ekkamai,85,93,97,Thursday,Morning
+2024-01-06,10:39,Bang Wa,16,58,54,Saturday,Morning
+2024-01-24,16:33,Phahon Yothin 24,46,45,99,Wednesday,Evening
+2024-01-06,15:57,Wutthakat,23,94,9,Saturday,Night
+2024-01-06,22:23,Sai Yud,44,2,78,Saturday,Night
+2024-01-13,21:48,Saphan Taksin,62,36,15,Saturday,Night
+2024-03-02,9:42,Phra Khanong,69,54,59,Saturday,Morning
+2024-03-30,12:45,Saphan Mai,90,75,71,Saturday,Afternoon
+2024-01-09,9:34,Sanam Pao,98,18,34,Tuesday,Morning
+2024-03-10,5:37,Asok,42,10,77,Sunday,Morning
+2024-02-20,20:21,Victory Monument,33,98,55,Tuesday,Night
+2024-03-16,14:21,Royal Forest Department,34,2,53,Saturday,Afternoon
+2024-01-10,10:38,Phraek Sa,38,43,45,Wednesday,Morning
+2024-01-02,19:56,Ratchayothin,5,18,5,Tuesday,Night
+2024-02-19,9:43,Phahon Yothin 59,32,5,93,Monday,Morning
+2024-01-09,13:14,Ekkamai,19,62,70,Tuesday,Afternoon
+2024-03-01,10:57,Phrom Phong,95,74,100,Friday,Morning
+2024-02-01,22:28,Phahon Yothin 24,91,9,64,Thursday,Night
+2024-02-26,5:05,Sai Luat,48,59,91,Monday,Morning
+2024-01-21,18:44,Punnawithi,82,97,95,Sunday,Night
+2024-03-04,19:49,Wongwian Yai,62,100,63,Monday,Night
+2024-01-17,11:22,Phra Khanong,18,66,98,Wednesday,Morning
+2024-02-22,10:32,Khu Khot.,81,75,63,Thursday,Morning
+2024-02-03,6:07,Sai Luat,47,1,28,Saturday,Morning
+2024-03-17,13:50,Ha Yaek Lat Phrao,9,74,26,Sunday,Afternoon
+2024-03-12,13:36,Bhumibol Adulyadej Hospital,47,19,99,Tuesday,Afternoon
+2024-02-16,7:27,Kheha,98,23,3,Friday,Morning
+2024-02-29,23:26,Nana,67,45,63,Thursday,Night
+2024-01-31,12:39,Talat Phlu,92,89,35,Wednesday,Afternoon
+2024-01-22,19:45,Talat Phlu,44,40,51,Monday,Night
+2024-02-02,11:46,Kheha,15,84,98,Friday,Morning
+2024-03-09,6:16,Ekkamai,47,62,6,Saturday,Morning
+2024-01-16,23:03,Siam (Interchange with Silom Line),51,92,95,Tuesday,Night
+2024-03-16,20:53,Udom Suk,18,28,38,Saturday,Night
+2024-02-16,22:33,Phra Khanong,80,81,25,Friday,Night
+2024-02-23,14:27,Royal Forest Department,61,69,100,Friday,Afternoon
+2024-03-01,5:16,Samrong,77,80,19,Friday,Morning
+2024-01-06,11:35,Pu Chao,33,81,82,Saturday,Morning
+2024-03-08,9:15,Kasetsart University,53,76,27,Friday,Morning
+2024-01-15,8:47,Victory Monument,87,97,98,Monday,Morning
+2024-01-22,22:59,Siam (Interchange with Sukhumvit Line),19,60,97,Monday,Night
+2024-02-24,12:50,Pho Nimit,11,83,72,Saturday,Afternoon
+2024-03-26,13:33,Bang Chak,19,34,90,Tuesday,Afternoon
+2024-03-18,21:57,Ari,7,86,74,Monday,Night
+2024-02-22,5:44,Sala Daeng,10,76,40,Thursday,Morning
+2024-03-01,11:12,Sena Nikhom,6,34,96,Friday,Morning
+2024-03-26,14:26,Royal Forest Department,27,85,91,Tuesday,Afternoon
+2024-03-09,22:26,Talat Phlu,34,38,46,Saturday,Night
+2024-03-12,18:15,Sena Nikhom,77,34,80,Tuesday,Night
+2024-01-03,8:28,Talat Phlu,60,26,96,Wednesday,Morning
+2024-03-20,5:04,Siam (Interchange with Sukhumvit Line),50,51,3,Wednesday,Morning
+2024-01-02,18:17,Sena Nikhom,49,71,57,Tuesday,Night
+2024-01-08,14:27,Saphan Taksin,84,68,49,Monday,Afternoon
+2024-02-09,13:24,Victory Monument,46,86,23,Friday,Afternoon
+2024-01-11,16:21,Sai Luat,14,27,64,Thursday,Evening
+2024-03-17,22:06,Bang Chak,41,66,15,Sunday,Night
+2024-02-11,12:01,Saphan Taksin,59,48,61,Sunday,Afternoon
+2024-01-12,13:56,Pak Nam,45,87,88,Friday,Afternoon
+2024-03-24,13:36,Surasak,52,63,42,Sunday,Afternoon
+2024-02-16,7:25,Chit Lom,95,33,4,Friday,Morning
+2024-01-16,20:34,Sala Daeng,88,8,95,Tuesday,Night
+2024-03-23,20:37,Ratchathewi,56,88,41,Saturday,Night
+2024-03-29,16:06,Sanam Pao,54,60,71,Friday,Evening
+2024-01-19,20:10,National Stadium,48,4,59,Friday,Night
+2024-03-04,20:12,Bang Chak,5,19,41,Monday,Night
+2024-01-04,5:20,Talat Phlu,63,50,1,Thursday,Morning
+2024-03-30,13:58,Sanam Pao,15,85,14,Saturday,Afternoon
+2024-02-17,19:50,Bhumibol Adulyadej Hospital,7,85,97,Saturday,Night
+2024-03-26,21:05,Khu Khot.,10,46,23,Tuesday,Night
+2024-03-27,13:07,Saphan Mai,7,54,10,Wednesday,Afternoon
+2024-01-03,11:41,Sala Daeng,75,85,13,Wednesday,Morning
+2024-01-29,13:07,Chang Erawan,69,13,33,Monday,Afternoon
+2024-03-14,10:24,Victory Monument,13,71,85,Thursday,Morning
+2024-03-02,22:21,Phraek Sa,22,27,56,Saturday,Night
+2024-02-15,12:44,National Stadium,13,22,51,Thursday,Afternoon
+2024-03-10,13:13,Ratchayothin,28,83,76,Sunday,Afternoon
+2024-02-08,15:36,Royal Forest Department,50,75,16,Thursday,Night
+2024-03-13,15:10,Wongwian Yai,58,3,42,Wednesday,Night
+2024-03-06,16:29,Saphan Khwai,13,66,16,Wednesday,Evening
+2024-03-29,7:10,Phrom Phong,60,39,59,Friday,Morning
+2024-01-13,9:28,Siam (Interchange with Sukhumvit Line),85,83,93,Saturday,Morning
+2024-03-01,23:10,Bang Chak,43,2,57,Friday,Night
+2024-02-26,12:15,Phaya Thai,74,29,35,Monday,Afternoon
+2024-02-29,11:13,Chit Lom,86,11,100,Thursday,Morning
+2024-03-12,22:37,Pu Chao,34,48,92,Tuesday,Night
+2024-02-09,17:03,Bang Na,65,96,15,Friday,Evening
+2024-01-18,10:17,11th Infantry Regiment,57,52,63,Thursday,Morning
+2024-03-11,12:57,Victory Monument,83,84,76,Monday,Afternoon
+2024-02-22,20:35,Phahon Yothin 24,31,50,75,Thursday,Night
+2024-02-16,20:48,Wat Phra Sri Mahathat,36,50,39,Friday,Night
+2024-01-17,16:04,Sena Nikhom,19,29,67,Wednesday,Evening
+2024-03-10,23:42,Royal Forest Department,99,43,10,Sunday,Night
+2024-01-14,9:39,Phra Khanong,30,92,41,Sunday,Morning
+2024-03-25,14:40,Phra Khanong,85,80,100,Monday,Afternoon
+2024-01-14,13:41,Kasetsart University,88,92,25,Sunday,Afternoon
+2024-01-04,9:53,Sai Luat,75,55,68,Thursday,Morning
+2024-01-12,17:38,Chit Lom,4,47,56,Friday,Evening
+2024-01-10,11:24,Punnawithi,57,13,81,Wednesday,Morning
+2024-02-20,13:23,Pu Chao,98,0,88,Tuesday,Afternoon
+2024-02-10,19:55,Bhumibol Adulyadej Hospital,45,38,62,Saturday,Night
+2024-02-12,22:56,Chit Lom,17,36,30,Monday,Night
+2024-01-12,11:28,Mo Chit,33,90,16,Friday,Morning
+2024-01-26,23:36,Bang Chak,69,88,95,Friday,Night
+2024-02-20,11:32,Chang Erawan,49,11,8,Tuesday,Morning
+2024-03-14,19:45,Mo Chit,60,90,81,Thursday,Night
+2024-01-28,15:54,Victory Monument,9,94,24,Sunday,Night
+2024-02-27,10:55,Phraek Sa,31,8,45,Tuesday,Morning
+2024-03-10,15:51,Srinagarindra,21,57,89,Sunday,Night
+2024-02-08,14:49,On Nut,25,77,99,Thursday,Afternoon
+2024-02-26,10:34,Yaek Kor Por Aor,18,67,12,Monday,Morning
+2024-03-11,23:52,Khu Khot.,84,99,73,Monday,Night
+2024-02-07,19:33,Surasak,96,99,88,Wednesday,Night
+2024-01-03,8:38,Ha Yaek Lat Phrao,26,17,66,Wednesday,Morning
+2024-01-30,23:45,Nana,92,42,25,Tuesday,Night
+2024-02-23,6:33,Pho Nimit,36,59,96,Friday,Morning
+2024-01-10,9:40,Chang Erawan,42,0,81,Wednesday,Morning
+2024-02-03,6:37,Phahon Yothin 24,96,87,27,Saturday,Morning
+2024-03-11,6:19,Phahon Yothin 59,62,23,16,Monday,Morning
+2024-03-17,10:09,Udom Suk,86,32,22,Sunday,Morning
+2024-02-24,21:31,Ratchathewi,42,3,65,Saturday,Night
+2024-01-29,23:13,Sai Luat,68,89,81,Monday,Night
+2024-01-07,5:28,Punnawithi,31,82,90,Sunday,Morning
+2024-01-19,6:05,Phaya Thai,49,92,31,Friday,Morning
+2024-03-05,14:41,Talat Phlu,48,1,23,Tuesday,Afternoon
+2024-03-28,22:01,National Stadium,51,81,68,Thursday,Night
+2024-03-30,12:12,Pho Nimit,92,91,61,Saturday,Afternoon
+2024-02-20,11:45,Kheha,57,2,41,Tuesday,Morning
+2024-02-25,10:26,Pak Nam,90,24,1,Sunday,Morning
+2024-03-29,10:32,Khu Khot.,29,41,14,Friday,Morning
+2024-01-31,18:01,Ratchayothin,53,46,20,Wednesday,Night
+2024-03-21,12:43,Ekkamai,12,87,35,Thursday,Afternoon
+2024-02-10,5:48,National Stadium,65,87,53,Saturday,Morning
+2024-03-14,8:29,Ratchadamri,58,25,14,Thursday,Morning
+2024-02-21,22:28,Sala Daeng,77,65,12,Wednesday,Night
+2024-01-13,22:33,Sala Daeng,27,95,16,Saturday,Night
+2024-03-11,16:20,Samrong,18,9,76,Monday,Evening
+2024-03-02,6:49,Sai Luat,29,59,53,Saturday,Morning
+2024-03-04,6:30,Sena Nikhom,65,92,35,Monday,Morning
+2024-02-21,20:49,Wat Phra Sri Mahathat,65,46,57,Wednesday,Night
+2024-02-02,16:07,Sai Yud,38,37,74,Friday,Evening
+2024-02-09,9:26,Nana,57,1,86,Friday,Morning
+2024-03-28,18:20,National Stadium,17,16,94,Thursday,Night
+2024-01-08,20:09,National Stadium,52,42,30,Monday,Night
+2024-03-08,12:17,Surasak,90,7,52,Friday,Afternoon
+2024-01-22,20:37,Victory Monument,20,48,17,Monday,Night
+2024-03-15,23:41,Ekkamai,12,83,36,Friday,Night
+2024-03-12,22:27,On Nut,96,2,57,Tuesday,Night
+2024-01-22,16:14,Bang Bua,72,32,30,Monday,Evening
+2024-03-11,7:21,Siam (Interchange with Sukhumvit Line),67,93,66,Monday,Morning
+2024-03-27,23:14,National Stadium,39,96,94,Wednesday,Night
+2024-03-26,7:23,Pho Nimit,36,91,97,Tuesday,Morning
+2024-03-13,14:39,Chit Lom,93,75,74,Wednesday,Afternoon
+2024-02-17,12:07,Samrong,71,69,65,Saturday,Afternoon
+2024-03-16,6:13,Ratchadamri,9,48,55,Saturday,Morning
+2024-03-11,17:54,Saphan Khwai,77,36,46,Monday,Evening
+2024-01-07,19:11,Siam (Interchange with Sukhumvit Line),57,15,45,Sunday,Night
+2024-02-24,18:05,Kasetsart University,96,83,6,Saturday,Night
+2024-03-28,11:50,Bang Chak,3,87,39,Thursday,Morning
+2024-03-22,19:20,Wongwian Yai,1,4,17,Friday,Night
+2024-01-23,20:18,Saphan Taksin,23,8,37,Tuesday,Night
+2024-03-08,19:11,Wongwian Yai,99,66,4,Friday,Night
+2024-02-27,8:50,Udom Suk,30,45,67,Tuesday,Morning
+2024-03-23,9:58,Mo Chit,44,27,8,Saturday,Morning
+2024-03-07,21:07,Sanam Pao,18,21,10,Thursday,Night
+2024-01-31,22:10,Pak Nam,61,97,65,Wednesday,Night
+2024-01-30,14:26,National Stadium,88,50,13,Tuesday,Afternoon
+2024-03-30,18:57,Surasak,44,77,93,Saturday,Night
+2024-01-10,9:13,Samrong,22,46,58,Wednesday,Morning
+2024-03-28,14:48,On Nut,87,39,3,Thursday,Afternoon
+2024-03-12,9:37,Saphan Mai,48,47,54,Tuesday,Morning
+2024-01-21,13:50,Ratchadamri,40,55,16,Sunday,Afternoon
+2024-03-22,9:38,Ratchadamri,91,25,42,Friday,Morning
+2024-01-04,23:20,Krung Thon Buri,5,68,16,Thursday,Night
+2024-01-24,8:53,Sanam Pao,34,81,29,Wednesday,Morning
+2024-02-08,10:00,Khu Khot.,24,82,35,Thursday,Morning
+2024-03-11,8:39,Phrom Phong,39,99,14,Monday,Morning
+2024-01-04,23:45,Phaya Thai,1,46,92,Thursday,Night
+2024-01-04,13:27,Sai Luat,57,55,23,Thursday,Afternoon
+2024-03-16,12:46,Thong Lo,23,53,66,Saturday,Afternoon
+2024-02-21,23:36,Bang Wa,49,95,10,Wednesday,Night
+2024-02-21,11:22,Udom Suk,36,19,18,Wednesday,Morning
+2024-02-23,7:08,Bang Bua,15,92,89,Friday,Morning
+2024-03-26,16:34,Bang Chak,56,9,16,Tuesday,Evening
+2024-02-07,12:53,Bang Na,43,38,46,Wednesday,Afternoon
+2024-02-19,8:45,Ha Yaek Lat Phrao,71,32,21,Monday,Morning
+2024-03-03,5:59,Phaya Thai,84,99,20,Sunday,Morning
+2024-01-19,5:46,Bang Bua,5,24,54,Friday,Morning
+2024-03-10,5:32,Pho Nimit,79,84,64,Sunday,Morning
+2024-02-09,18:55,Phraek Sa,59,36,100,Friday,Night
+2024-03-03,13:40,Ratchathewi,43,69,27,Sunday,Afternoon
+2024-03-24,18:09,Sai Luat,67,38,14,Sunday,Night
+2024-01-08,17:11,Pak Nam,57,3,77,Monday,Evening
+2024-02-14,7:13,Thong Lo,20,73,53,Wednesday,Morning
+2024-03-20,20:40,Sai Luat,91,98,44,Wednesday,Night
+2024-01-31,18:09,Saphan Mai,77,77,10,Wednesday,Night
+2024-01-16,11:01,Kheha,88,18,92,Tuesday,Morning
+2024-03-04,22:05,Khu Khot.,77,24,52,Monday,Night
+2024-03-04,15:50,11th Infantry Regiment,63,0,8,Monday,Night
+2024-03-21,18:50,Kasetsart University,99,52,10,Thursday,Night
+2024-02-22,5:19,Phrom Phong,69,25,13,Thursday,Morning
+2024-03-24,8:00,Bang Chak,98,15,66,Sunday,Morning
+2024-02-11,7:31,Punnawithi,40,37,86,Sunday,Morning
+2024-03-16,20:39,Srinagarindra,59,23,54,Saturday,Night
+2024-02-26,6:09,Kheha,9,53,73,Monday,Morning
+2024-01-23,15:45,Sai Yud,74,54,86,Tuesday,Night
+2024-02-04,13:40,Sanam Pao,19,60,5,Sunday,Afternoon
+2024-01-10,15:34,Royal Thai Naval Academy,13,94,69,Wednesday,Night
+2024-03-05,9:29,Royal Thai Naval Academy,57,100,100,Tuesday,Morning
+2024-03-03,8:57,Talat Phlu,91,44,83,Sunday,Morning
+2024-03-09,14:59,Ploen Chit,8,33,69,Saturday,Afternoon
+2024-03-25,11:41,Wutthakat,7,92,88,Monday,Morning
+2024-01-07,16:45,Saphan Taksin,36,90,72,Sunday,Evening
+2024-02-21,20:33,Phahon Yothin 24,34,66,40,Wednesday,Night
+2024-02-11,17:56,Ekkamai,85,72,72,Sunday,Evening
+2024-03-19,19:34,Phahon Yothin 59,49,82,8,Tuesday,Night
+2024-01-05,21:42,Ratchadamri,88,95,12,Friday,Night
+2024-01-02,21:49,Saphan Khwai,59,82,5,Tuesday,Night
+2024-03-30,5:26,Siam (Interchange with Silom Line),60,62,48,Saturday,Morning
+2024-03-18,6:19,Kheha,38,79,83,Monday,Morning
+2024-03-10,15:15,Udom Suk,83,98,22,Sunday,Night
+2024-01-26,18:07,Royal Forest Department,39,17,48,Friday,Night
+2024-03-01,13:53,Saphan Khwai,37,75,33,Friday,Afternoon
+2024-03-09,11:14,Sala Daeng,46,41,76,Saturday,Morning
+2024-03-08,9:01,Asok,45,50,52,Friday,Morning
+2024-01-31,12:02,Saphan Taksin,90,31,86,Wednesday,Afternoon
+2024-01-24,11:35,Bearing,10,91,55,Wednesday,Morning
+2024-03-25,13:35,Kheha,47,59,67,Monday,Afternoon
+2024-01-20,11:40,Sai Luat,92,42,66,Saturday,Morning
+2024-02-08,10:53,Chong Nonsi,87,55,65,Thursday,Morning
+2024-03-19,18:06,Khu Khot.,15,69,1,Tuesday,Night
+2024-03-16,12:33,Samrong,26,53,74,Saturday,Afternoon
+2024-02-14,19:04,Ratchadamri,30,83,60,Wednesday,Night
+2024-02-28,18:30,Phraek Sa,100,48,19,Wednesday,Night
+2024-01-29,10:24,Royal Thai Naval Academy,69,100,60,Monday,Morning
+2024-02-06,8:33,Bang Chak,0,70,63,Tuesday,Morning
+2024-01-15,15:30,Kasetsart University,48,4,3,Monday,Night
+2024-03-05,23:28,Ekkamai,86,86,81,Tuesday,Night
+2024-01-16,22:03,Royal Thai Naval Academy,76,16,36,Tuesday,Night
+2024-02-12,10:30,11th Infantry Regiment,52,47,36,Monday,Morning
+2024-03-16,8:51,Pak Nam,4,99,86,Saturday,Morning
+2024-01-28,19:56,Punnawithi,80,38,29,Sunday,Night
+2024-02-04,5:44,Sai Luat,89,38,35,Sunday,Morning
+2024-03-01,12:19,Punnawithi,94,54,35,Friday,Afternoon
+2024-01-07,7:12,Pu Chao,65,85,13,Sunday,Morning
+2024-03-28,13:36,Saphan Mai,76,84,40,Thursday,Afternoon
+2024-02-14,18:44,Krung Thon Buri,93,98,81,Wednesday,Night
+2024-03-04,22:22,Wongwian Yai,56,35,78,Monday,Night
+2024-01-14,22:14,Sai Luat,49,45,63,Sunday,Night
+2024-02-07,18:46,Saphan Taksin,11,47,100,Wednesday,Night
+2024-02-13,5:11,Wat Phra Sri Mahathat,6,80,66,Tuesday,Morning
+2024-01-23,16:23,Sai Luat,16,10,3,Tuesday,Evening
+2024-03-29,7:15,Phahon Yothin 24,40,3,34,Friday,Morning
+2024-03-04,8:33,Srinagarindra,7,66,18,Monday,Morning
+2024-01-18,21:27,Kheha,49,19,2,Thursday,Night
+2024-03-01,5:31,Pak Nam,100,75,47,Friday,Morning
+2024-01-17,10:58,Bang Chak,34,22,74,Wednesday,Morning
+2024-02-22,18:55,Bearing,100,47,20,Thursday,Night
+2024-02-23,20:25,Srinagarindra,41,95,45,Friday,Night
+2024-01-28,11:40,Krung Thon Buri,0,75,76,Sunday,Morning
+2024-03-28,10:00,Bearing,100,71,40,Thursday,Morning
+2024-02-16,13:53,Saphan Khwai,27,82,83,Friday,Afternoon
+2024-03-21,18:06,On Nut,50,62,38,Thursday,Night
+2024-02-07,17:54,Ploen Chit,78,57,44,Wednesday,Evening
+2024-03-11,19:55,Ari,22,52,67,Monday,Night
+2024-03-01,7:10,Phaya Thai,63,83,52,Friday,Morning
+2024-03-14,15:46,Kheha,40,34,5,Thursday,Night
+2024-03-07,12:17,11th Infantry Regiment,15,48,33,Thursday,Afternoon
+2024-03-20,15:11,Bang Bua,11,38,1,Wednesday,Night
+2024-02-25,6:57,Srinagarindra,69,83,100,Sunday,Morning
+2024-02-17,18:50,Punnawithi,67,38,1,Saturday,Night
+2024-01-04,13:55,Punnawithi,28,19,55,Thursday,Afternoon
+2024-03-22,16:41,11th Infantry Regiment,72,37,96,Friday,Evening
+2024-02-14,9:10,Sai Yud,78,55,99,Wednesday,Morning
+2024-01-27,7:22,11th Infantry Regiment,75,70,65,Saturday,Morning
+2024-03-04,23:16,Phaya Thai,80,50,19,Monday,Night
+2024-01-07,11:22,11th Infantry Regiment,64,0,84,Sunday,Morning
+2024-01-17,5:53,Bang Na,37,37,23,Wednesday,Morning
+2024-02-14,5:35,Ha Yaek Lat Phrao,34,59,31,Wednesday,Morning
+2024-01-26,16:53,Bang Wa,63,1,95,Friday,Evening
+2024-03-09,20:08,Phraek Sa,9,38,13,Saturday,Night
+2024-01-31,14:49,Kheha,65,38,39,Wednesday,Afternoon
+2024-01-22,10:35,Yaek Kor Por Aor,58,23,16,Monday,Morning
+2024-01-06,9:30,Yaek Kor Por Aor,0,53,50,Saturday,Morning
+2024-03-30,7:34,Yaek Kor Por Aor,78,16,22,Saturday,Morning
+2024-01-08,6:14,Srinagarindra,90,28,22,Monday,Morning
+2024-03-09,20:29,Saphan Mai,80,12,75,Saturday,Night
+2024-03-17,13:55,Bang Chak,83,53,1,Sunday,Afternoon
+2024-02-19,15:34,Ari,37,18,70,Monday,Night
+2024-01-06,12:14,Ratchathewi,41,4,43,Saturday,Afternoon
+2024-03-21,8:35,Ekkamai,76,48,80,Thursday,Morning
+2024-02-23,13:44,Bang Bua,2,26,76,Friday,Afternoon
+2024-01-10,14:59,Ploen Chit,72,49,64,Wednesday,Afternoon
+2024-02-13,5:10,Ha Yaek Lat Phrao,90,89,96,Tuesday,Morning
+2024-01-05,6:55,Phrom Phong,38,74,24,Friday,Morning
+2024-02-20,17:34,Wat Phra Sri Mahathat,88,81,53,Tuesday,Evening
+2024-01-07,19:49,Samrong,60,78,58,Sunday,Night
+2024-03-30,14:03,Samrong,79,77,46,Saturday,Afternoon
+2024-02-19,12:00,Saphan Khwai,0,31,62,Monday,Afternoon
+2024-01-31,14:18,Pho Nimit,37,77,66,Wednesday,Afternoon
+2024-03-26,22:53,Kheha,62,51,72,Tuesday,Night
+2024-03-30,12:36,Ratchadamri,8,33,71,Saturday,Afternoon
+2024-02-09,9:52,On Nut,36,99,69,Friday,Morning
+2024-02-07,9:24,Krung Thon Buri,61,66,85,Wednesday,Morning
+2024-03-23,21:36,Kasetsart University,53,94,61,Saturday,Night
+2024-02-14,11:08,On Nut,46,34,92,Wednesday,Morning
+2024-03-28,15:15,Sanam Pao,31,28,32,Thursday,Night
+2024-01-12,23:34,Phrom Phong,100,4,22,Friday,Night
+2024-01-23,22:49,Nana,24,19,68,Tuesday,Night
+2024-01-26,18:43,Chong Nonsi,58,62,68,Friday,Night
+2024-02-25,11:55,Surasak,71,21,91,Sunday,Morning
+2024-02-16,6:36,Nana,27,45,59,Friday,Morning
+2024-01-22,13:14,Talat Phlu,77,83,14,Monday,Afternoon
+2024-02-11,8:57,Phahon Yothin 59,94,98,10,Sunday,Morning
+2024-01-20,6:15,Samrong,19,24,65,Saturday,Morning
+2024-01-25,7:28,Ratchathewi,49,37,94,Thursday,Morning
+2024-03-08,5:57,Samrong,3,4,38,Friday,Morning
+2024-03-21,13:10,Sai Luat,66,87,59,Thursday,Afternoon
+2024-01-01,5:22,Talat Phlu,57,79,54,Monday,Morning
+2024-02-10,7:54,Sai Luat,76,52,23,Saturday,Morning
+2024-01-24,18:58,Bang Na,72,73,7,Wednesday,Night
+2024-01-30,18:07,Bhumibol Adulyadej Hospital,45,14,80,Tuesday,Night
+2024-03-08,15:45,Bang Na,2,0,90,Friday,Night
+2024-02-11,18:29,On Nut,13,26,82,Sunday,Night
+2024-03-20,7:01,Saphan Taksin,26,54,81,Wednesday,Morning
+2024-03-11,22:01,Phra Khanong,14,89,56,Monday,Night
+2024-02-24,12:52,Pho Nimit,36,44,5,Saturday,Afternoon
+2024-01-20,20:20,Nana,81,34,63,Saturday,Night
+2024-03-15,23:33,On Nut,62,93,3,Friday,Night
+2024-02-20,8:14,Phahon Yothin 59,46,72,20,Tuesday,Morning
+2024-02-28,16:39,Phra Khanong,20,13,58,Wednesday,Evening
+2024-03-25,18:01,Kheha,5,12,34,Monday,Night
+2024-03-11,22:34,Sena Nikhom,43,73,8,Monday,Night
+2024-01-13,21:50,Sai Yud,97,44,71,Saturday,Night
+2024-01-08,11:12,Phaya Thai,85,18,2,Monday,Morning
+2024-02-26,15:35,Ratchadamri,17,30,51,Monday,Night
+2024-02-29,9:02,Srinagarindra,2,86,48,Thursday,Morning
+2024-03-19,7:29,Phrom Phong,61,4,2,Tuesday,Morning
+2024-01-20,16:10,Phraek Sa,46,91,50,Saturday,Evening
+2024-01-23,13:20,Wutthakat,46,49,39,Tuesday,Afternoon
+2024-03-26,13:03,Pho Nimit,98,8,33,Tuesday,Afternoon
+2024-03-18,8:48,Bhumibol Adulyadej Hospital,22,19,9,Monday,Morning
+2024-03-29,9:09,Wat Phra Sri Mahathat,70,14,28,Friday,Morning
+2024-02-14,23:28,Samrong,64,45,3,Wednesday,Night
+2024-02-06,17:37,Bang Wa,88,39,93,Tuesday,Evening
+2024-03-14,8:33,Udom Suk,100,87,81,Thursday,Morning
+2024-02-23,16:30,Surasak,29,0,37,Friday,Evening
+2024-03-17,23:18,Phrom Phong,4,27,45,Sunday,Night
+2024-01-26,7:43,Ploen Chit,56,99,79,Friday,Morning
+2024-03-08,23:11,Kheha,45,73,69,Friday,Night
+2024-03-23,7:18,Sala Daeng,28,23,39,Saturday,Morning
+2024-02-20,5:15,Kheha,75,46,13,Tuesday,Morning
+2024-03-21,7:34,Bang Na,42,90,65,Thursday,Morning
+2024-02-13,18:27,Sai Yud,48,72,42,Tuesday,Night
+2024-02-17,16:50,Khu Khot.,81,19,61,Saturday,Evening
+2024-02-13,20:04,Sena Nikhom,96,10,85,Tuesday,Night
+2024-02-01,21:15,Kheha,29,98,82,Thursday,Night
+2024-02-28,20:43,Bang Na,93,28,76,Wednesday,Night
+2024-01-24,9:50,Mo Chit,85,29,11,Wednesday,Morning
+2024-03-22,5:36,Surasak,50,77,12,Friday,Morning
+2024-02-18,18:32,Ha Yaek Lat Phrao,8,45,18,Sunday,Night
+2024-02-22,11:34,Srinagarindra,10,10,55,Thursday,Morning
+2024-03-26,7:18,Sanam Pao,47,47,90,Tuesday,Morning
+2024-01-09,14:11,Khu Khot.,51,63,47,Tuesday,Afternoon
+2024-01-30,23:28,Surasak,89,28,15,Tuesday,Night
+2024-03-18,9:24,11th Infantry Regiment,23,49,98,Monday,Morning
+2024-02-22,6:12,Chong Nonsi,100,97,72,Thursday,Morning
+2024-03-11,7:54,11th Infantry Regiment,40,19,48,Monday,Morning
+2024-02-27,21:16,Bearing,19,9,99,Tuesday,Night
+2024-03-19,13:23,Yaek Kor Por Aor,84,18,38,Tuesday,Afternoon
+2024-01-24,17:02,Wat Phra Sri Mahathat,54,82,40,Wednesday,Evening
+2024-03-20,12:16,Chit Lom,83,76,51,Wednesday,Afternoon
